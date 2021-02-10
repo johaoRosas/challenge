@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopularityProgrammingLanguages", "PopularityProgrammingLanguages\PopularityProgrammingLanguages.csproj", "{77CB4DB1-2F9B-41C5-91C1-F6AC52AA588E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{0FBEE85D-2178-4D1A-8CE1-EA5044D1A00D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApplicationCore", "ApplicationCore", "{B440B2DE-7ADD-4966-80C9-581F7170F9C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApplicationServices", "ApplicationServices", "{895065FD-3181-4E20-B685-ADC5EF1F4002}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{25D3F2D8-71BA-400B-8B65-765B617BA203}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configuration", "{E0AA67FE-E383-495B-915F-B2C1B3144656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopularityProgrammingLanguages.Configuration", "PopularityProgrammingLanguages.Configuration\PopularityProgrammingLanguages.Configuration.csproj", "{C8469C7A-ED47-425A-ABD6-DE4F73443575}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopularityProgrammingLanguages.Services", "PopularityProgrammingLanguages.Services\PopularityProgrammingLanguages.Services.csproj", "{8996ECBC-F6C8-43D0-B559-EBA95C83823F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopularityProgrammingLanguages.Core", "PopularityProgrammingLanguages.Core\PopularityProgrammingLanguages.Core.csproj", "{2F08CC8C-45FC-48A1-AC5A-0AAA8BB4B7DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Util", "Util", "{DDA3DC26-56E9-40FB-B6DE-FBB0EC376984}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopularityProgrammingLanguages.Util", "PopularityProgrammingLanguages.Util\PopularityProgrammingLanguages.Util.csproj", "{19702F9C-617F-436D-B469-7E8A111E1BFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopularityProgrammingLanguages.Test", "PopularityProgrammingLanguages.Test\PopularityProgrammingLanguages.Test.csproj", "{66643BA5-6A77-4426-8172-0BB29FF37157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77CB4DB1-2F9B-41C5-91C1-F6AC52AA588E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77CB4DB1-2F9B-41C5-91C1-F6AC52AA588E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77CB4DB1-2F9B-41C5-91C1-F6AC52AA588E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77CB4DB1-2F9B-41C5-91C1-F6AC52AA588E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8469C7A-ED47-425A-ABD6-DE4F73443575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8469C7A-ED47-425A-ABD6-DE4F73443575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8469C7A-ED47-425A-ABD6-DE4F73443575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8469C7A-ED47-425A-ABD6-DE4F73443575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8996ECBC-F6C8-43D0-B559-EBA95C83823F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8996ECBC-F6C8-43D0-B559-EBA95C83823F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8996ECBC-F6C8-43D0-B559-EBA95C83823F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8996ECBC-F6C8-43D0-B559-EBA95C83823F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F08CC8C-45FC-48A1-AC5A-0AAA8BB4B7DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F08CC8C-45FC-48A1-AC5A-0AAA8BB4B7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F08CC8C-45FC-48A1-AC5A-0AAA8BB4B7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F08CC8C-45FC-48A1-AC5A-0AAA8BB4B7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19702F9C-617F-436D-B469-7E8A111E1BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19702F9C-617F-436D-B469-7E8A111E1BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19702F9C-617F-436D-B469-7E8A111E1BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19702F9C-617F-436D-B469-7E8A111E1BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66643BA5-6A77-4426-8172-0BB29FF37157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66643BA5-6A77-4426-8172-0BB29FF37157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66643BA5-6A77-4426-8172-0BB29FF37157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66643BA5-6A77-4426-8172-0BB29FF37157}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{77CB4DB1-2F9B-41C5-91C1-F6AC52AA588E} = {0FBEE85D-2178-4D1A-8CE1-EA5044D1A00D}
+		{C8469C7A-ED47-425A-ABD6-DE4F73443575} = {E0AA67FE-E383-495B-915F-B2C1B3144656}
+		{8996ECBC-F6C8-43D0-B559-EBA95C83823F} = {895065FD-3181-4E20-B685-ADC5EF1F4002}
+		{2F08CC8C-45FC-48A1-AC5A-0AAA8BB4B7DC} = {B440B2DE-7ADD-4966-80C9-581F7170F9C8}
+		{19702F9C-617F-436D-B469-7E8A111E1BFB} = {DDA3DC26-56E9-40FB-B6DE-FBB0EC376984}
+		{66643BA5-6A77-4426-8172-0BB29FF37157} = {25D3F2D8-71BA-400B-8B65-765B617BA203}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5654872E-F82C-430D-AA4F-C06AD4E703CC}
+	EndGlobalSection
+EndGlobal

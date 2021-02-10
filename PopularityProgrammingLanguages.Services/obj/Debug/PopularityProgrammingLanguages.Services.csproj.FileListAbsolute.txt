@@ -1,0 +1,9 @@
+C:\Users\johao\Source\Repos\PopularityProgrammingLanguages\PopularityProgrammingLanguages.Services\bin\Debug\PopularityProgrammingLanguages.Services.dll
+C:\Users\johao\Source\Repos\PopularityProgrammingLanguages\PopularityProgrammingLanguages.Services\bin\Debug\PopularityProgrammingLanguages.Services.pdb
+C:\Users\johao\Source\Repos\PopularityProgrammingLanguages\PopularityProgrammingLanguages.Services\bin\Debug\PopularityProgrammingLanguages.Configuration.dll
+C:\Users\johao\Source\Repos\PopularityProgrammingLanguages\PopularityProgrammingLanguages.Services\bin\Debug\PopularityProgrammingLanguages.Configuration.pdb
+C:\Users\johao\Source\Repos\PopularityProgrammingLanguages\PopularityProgrammingLanguages.Services\obj\Debug\PopularityProgrammingLanguages.Services.csprojAssemblyReference.cache
+C:\Users\johao\Source\Repos\PopularityProgrammingLanguages\PopularityProgrammingLanguages.Services\obj\Debug\PopularityProgrammingLanguages.Services.csproj.CoreCompileInputs.cache
+C:\Users\johao\Source\Repos\PopularityProgrammingLanguages\PopularityProgrammingLanguages.Services\obj\Debug\PopularityProgrammingLanguages.Services.csproj.CopyComplete
+C:\Users\johao\Source\Repos\PopularityProgrammingLanguages\PopularityProgrammingLanguages.Services\obj\Debug\PopularityProgrammingLanguages.Services.dll
+C:\Users\johao\Source\Repos\PopularityProgrammingLanguages\PopularityProgrammingLanguages.Services\obj\Debug\PopularityProgrammingLanguages.Services.pdb
